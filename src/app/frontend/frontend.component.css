@@ -1,0 +1,13 @@
+.frontend-container {
+    background-color: #1e252d;
+}
+.frontend-container:before {
+    content: ' ';
+    position: fixed;
+    top: 0;
+    background: url(../../assets/images/bg.jpg) center 0 no-repeat;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: cover;
+}
