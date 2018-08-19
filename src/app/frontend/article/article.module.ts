@@ -1,13 +1,13 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { ArticleComponent } from '../article/article.component';
+// import { ArticleComponent } from '../article/article.component';
 
 @NgModule({
   imports: [
     CommonModule
   ],
   declarations: [
-    ArticleComponent
+    // ArticleComponent
   ]
 })
 export class ArticleModule { }
